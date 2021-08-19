@@ -14,6 +14,6 @@ items:
       alt: sand
     description: <a href="https://tranktle.github.io/porfolio/about/">about me</a>   
 ---
-
+These are links to my webpage and About me
 <br />
 <br />
