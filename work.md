@@ -1,20 +1,19 @@
 ---
 layout: work
-title: Work
+title: About
 slug: /work
 items:
-  - title: My Interest 1
+  - title: My webpage
     image:
       src: /assets/img/work/water.png
       alt: water
-    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-  - title: My Interest 2
+    description: [https://tranktle.github.io/porfolio/](https://tranktle.github.io/porfolio/)
+  - title: About me
     image:
       src: /assets/img/work/sand.png
       alt: sand
-    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+    description: [https://tranktle.github.io/porfolio/about/](https://tranktle.github.io/porfolio/about/)
 ---
 
-This is an example of a "Work" page, displaying your work, your interests, your projects.
 <br />
 <br />
