@@ -7,7 +7,7 @@ This is my note written when I read the book ["The Elements of Statistical Learn
 baseurl: "/read_ml_book" # the subpath of the site
 url: "https://tranktle.github.io" # the base hostname & protocol for the site
 og_image: /assets/img/profile-pic.jpg
-google_analytics: "UA-121636368-3"
+#google_analytics: "UA-121636368-3"
 
 header:
   pages:
